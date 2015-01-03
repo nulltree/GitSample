@@ -11,6 +11,6 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="test1" />
+        android:text="test122" />
 
 </RelativeLayout>
